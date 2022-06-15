@@ -8,12 +8,10 @@
 ## Output
 
 ```json
-{
 { data: { identity: { followerCount: 23438 } }, result: 23438 } 
-}
 ```
 
-## Install Locally
+## Install Locallya
 
 Install dependencies:
 
