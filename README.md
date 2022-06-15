@@ -8,7 +8,14 @@
 ## Output
 
 ```json
-{ data: { identity: { followerCount: 23438 } }, result: 23438 } 
+{ "data": 
+  { "identity": 
+    { 
+      "followerCount": 23438 
+    } 
+  }, 
+  "result": 23438 
+} 
 ```
 
 ## Install Locallya
